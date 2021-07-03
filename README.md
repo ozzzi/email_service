@@ -1,2 +1,1 @@
-# email_service
-Example email worker
+# Example email worker
